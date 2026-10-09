@@ -5,26 +5,26 @@
 
 ## Hi, I'm Adi Yitzchaki 👋
 
-I'm a second-year Computer Science student with a growing foundation in programming and software development. I enjoy learning how technology works and building my skills through coursework and hands-on practice.
+### About Me
 
-### Background
+I'm a second-year Computer Science student interested in understanding how software is designed, built, and used to solve real-world problems. I enjoy expanding my technical knowledge and learning through a mix of academic study and practical experience.
 
-Through my studies, I've been introduced to programming, web technologies, and working with data. I'm continuing to strengthen my problem-solving skills and deepen my understanding of computer science concepts.
+### Academic Background
 
-### Languages and Technologies
+My studies are helping me build a foundation in computer science, programming, and software development. Along the way, I'm developing my logical thinking, problem-solving approach, and ability to break complex challenges into manageable steps.
 
-- C
-- SQL
-- Java
-- JavaScript
-- Python
-- HTML
+### My Goals
 
-### Goals
+- Strengthen my programming and problem-solving skills.
+- Gain practical experience by applying concepts to projects.
+- Explore different areas of computer science and software development.
+- Continue learning and growing as a developer throughout my studies.
 
-- Continue developing strong programming and problem-solving skills.
-- Apply what I learn to practical projects.
-- Explore different areas of software development and discover where I can contribute most.
-- Keep learning new tools and technologies as I progress in my studies.
+### Looking Ahead
 
-I'm excited to keep learning, take on new challenges, and grow as a computer science student.
+I'm looking forward to taking on new challenges, collaborating with others, and turning what I learn into useful projects.
+
+<p>
+	<img src="https://skillicons.dev/icons?i=c,java,js,python,html" alt="C, Java, JavaScript, Python, HTML" />
+	<img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/svgs/solid/database.svg" alt="SQL" width="48" height="48" />
+</p>
